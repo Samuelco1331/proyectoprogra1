@@ -1,0 +1,27 @@
+edu/upb/lp/progra/adapterFiles/TextListener.java
+ edu.upb.lp.progra.adapterFiles.TextListener
+edu/upb/lp/genericgame/BuildConfig.java
+ edu.upb.lp.genericgame.BuildConfig
+edu/upb/lp/progra/adapterFiles/AndroidLibrary.java
+ edu.upb.lp.progra.adapterFiles.AndroidLibrary
+edu/upb/lp/progra/adapterFiles/AppConnector.java
+ edu.upb.lp.progra.adapterFiles.AppConnector
+edu/upb/lp/progra/bugWorld/Bug.java
+ edu.upb.lp.progra.bugWorld.Bug
+edu/upb/lp/androidInternalFiles/AndroidGameActivity.java
+ edu.upb.lp.androidInternalFiles.AndroidGameActivity
+ edu.upb.lp.androidInternalFiles.MyTextView
+edu/upb/lp/progra/bugWorld/BugWorld.java
+ edu.upb.lp.progra.bugWorld.BugWorld
+edu/upb/lp/progra/bugWorld/ScoreManager.java
+ edu.upb.lp.progra.bugWorld.ScoreManager
+edu/upb/lp/progra/bugWorld/BugWorldUI.java
+ edu.upb.lp.progra.bugWorld.BugWorldUI
+edu/upb/lp/progra/bugWorld/Cell.java
+ edu.upb.lp.progra.bugWorld.Cell
+edu/upb/lp/progra/superMegaJuegoSuperCool/SuperMegaJuegoSuperCoolConnector.java
+ edu.upb.lp.progra.superMegaJuegoSuperCool.SuperMegaJuegoSuperCoolConnector
+edu/upb/lp/progra/superMegaJuegoSuperCool/SuperMegaJuegoSuperCoolGame.java
+ edu.upb.lp.progra.superMegaJuegoSuperCool.SuperMegaJuegoSuperCoolGame
+edu/upb/lp/progra/adapterFiles/GameAdapter.java
+ edu.upb.lp.progra.adapterFiles.GameAdapter

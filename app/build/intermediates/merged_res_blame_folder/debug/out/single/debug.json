@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_bugs_dead_bug.png.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\bugs_dead_bug.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_wall.jpg.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\wall.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_bugs_sad_bug.jpg.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\bugs_sad_bug.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_colors_white.png.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\colors_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_seaone.jpg.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\seaone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\raw_ping.mp3.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\raw\\ping.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_bugs_dead_bug_selected.png.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\bugs_dead_bug_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_seathree.jpg.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\seathree.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_colors_blue.png.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\colors_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_bugs_hungry_bug.jpeg.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\bugs_hungry_bug.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_sea.jpg.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\sea.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_bugs_old_bug.jpg.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\bugs_old_bug.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_bugs_happy_bug_selected.jpg.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\bugs_happy_bug_selected.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_colors_grey.png.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\colors_grey.png"
+    },
+    {
+        "merged": "edu.upb.lp.genericgame.app-merged_res-5:/drawable_wall.jpg.flat",
+        "source": "edu.upb.lp.genericgame.app-main-7:/drawable/wall.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_bugs_hungry_bug_selected.jpg.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\bugs_hungry_bug_selected.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_seatwo.jpg.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\seatwo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_bugs_sad_bug_selected.jpg.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\bugs_sad_bug_selected.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_bugs_old_bug_selected.jpg.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\bugs_old_bug_selected.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable_bugs_happy_bug.jpg.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable\\bugs_happy_bug.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-merged_res-5:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrador\\.gradle\\daemon\\7.5\\edu.upb.lp.genericgame.app-main-7:\\drawable-hdpi\\ic_launcher.png"
+    }
+]
