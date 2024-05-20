@@ -1,6 +1,6 @@
 package edu.upb.lp.progra.adapterFiles;
 
-import edu.upb.lp.progra.newGame.NewGameUI;
+import edu.upb.lp.progra.mysticalDepths.MysticalDepthsConnector;
 /**
  * This class allows to select what UI will be used by the Android library.
  * 
@@ -10,6 +10,6 @@ import edu.upb.lp.progra.newGame.NewGameUI;
  */
 public class GameAdapter {
 	public static AppConnector selectGame(AndroidLibrary gui) {
-		return new NewGameUI(gui);
+		return new MysticalDepthsConnector(gui);
 	}	
 }
